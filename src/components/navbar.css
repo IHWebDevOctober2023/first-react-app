@@ -1,0 +1,17 @@
+.nav-container{
+    background-color: rgb(51, 45, 130);
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+#ih-logo{
+    height: 60px;
+    padding-left: 40px;
+}
+
+#menu-icon{
+    padding-right: 40px;
+}
